@@ -1,0 +1,177 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+.checkout-layout{
+    display: grid;
+    grid-template-columns:70% 28%;
+    justify-content: space-between;
+  margin:10px;
+  padding-top: 30px;
+  /* border:1px solid black; */
+  /* border-top: 1px solid black; */
+}
+.input-layout{
+    width:100%;
+    /* border:1px solid black; */
+    justify-content: space-between; 
+    /* padding-top: 40px; */
+}
+.text-area{
+    text-align: center;
+    gap: 50px;
+    padding-bottom: 20px;
+}
+#inputs-layout {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+.input-boxa{
+    width: 100%;
+    height: 35px;
+}
+.input-box{
+    width: 100%;
+    height: 35px;
+     gap: 20px;
+}
+.inpu {
+display: grid;
+grid-template-columns: auto auto;
+grid-template-rows: auto auto ;
+    gap: 20px;
+}
+.selector-box{
+    width: 100%;
+    /* display: grid;
+    grid-template-rows: 100%; */
+    row-gap: 20px;
+    justify-content: space-between;
+}
+.header-selector{
+    display: grid;
+    grid-template-columns:33% 33% 33%;
+    row-gap: 20px;
+} 
+
+.paymentsec > button{
+    width: 200px;
+    height: 30px;
+   background-color: black;
+    color: white;
+    text-align: center;
+}
+.formsec >button{
+    width: 500px;
+    height: 30px;
+    background-color: black;
+     color: white;
+     text-align: center;
+     border-radius: 5px;
+ 
+}
+
+
+/* 
+.total-price>button:hover{
+    background-color: rgb(163, 158, 158);
+} */
+
+#price-layout{
+    display: flex;
+    flex-direction: column;
+    row-gap: 30px;
+    background-color: rgb(238, 230, 230);
+
+}
+.total-price{
+    display: flex;
+    flex-direction: column;
+    row-gap: 30px;
+    height: 400px;
+}
+.total-price>#promo{
+    width: 90%;
+    /* color: white; */
+    height: 30px;
+    row-gap: 30px;
+    border-radius: 5px;
+}
+.total-price>button{
+    width: 90%;
+    background-color: black;
+    color: white;
+    height: 30px;
+    row-gap: 30px;
+    border-radius: 5px;
+}
+#bagshow{
+    width: 300px;
+    height: 500px;
+    display: flex;
+    flex-direction: column;
+    overflow:auto;
+}
+#bagshow> .productdiv{
+    width: 200px;
+    height: 200px;
+
+}
+.productdiv >img{
+    width: 100px;
+    height: 100px;
+}
+
+.paymentsec >button{
+    width: 500px;
+    /* background-color: black; */
+    color: white;
+    height: 30px;
+    align-items: center;
+    border-radius: 5px;
+}
+.address{
+    width: 100%;
+    /* border: 1px solid black; */
+display: grid;
+grid-template-columns: 50% 50%;
+height: auto;
+}
+#masg{
+    width: 800px;
+    height: 100px;
+    /* background-color: wheat; */
+    padding: 2rem;
+    font-size: 2rem;
+}
+.formsec{
+    width: auto;
+    /* border: 1px solid black; */
+}
+.formsec>button{
+    align-items: center;
+}
+.cardsec{
+    width: 600px;
+    
+}
+#cardnum{
+    width: 700px;
+    height: 30px;
+    gap: 20px;
+}
+#exp{
+    width: 250px;
+    height: 30px;
+}
+#secode{
+    width: 250px;
+    height: 30px;
+}
+.nav{
+    padding-bottom: 20px;
+}

@@ -1,0 +1,14 @@
+.flex{
+    display: flex;
+}
+
+.fc{
+    flex-direction: column;
+}
+
+.fjsb{
+    justify-content: space-between;
+}
+.fjsa{
+    justify-content: space-around;
+}

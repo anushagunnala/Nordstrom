@@ -1,0 +1,159 @@
+
+/* css of signup1 singup2 css */
+
+
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+    /* border: 1px solid black; */
+}
+#from-contant{
+    display: grid;
+    grid-template-columns:35% 30% 30%; 
+ 
+    
+}
+.signup-form{
+   display:flex;
+   flex-direction: column;
+  margin-top: 100px;
+    gap: 20px;
+    /* border: 1px solid black; */
+}
+.signup-form :nth-child(1){
+    font-size: 30px;
+   font-family: sans-serif;
+}
+.signup-form :nth-child(2){
+    font-size: 15px;
+   font-family: sans-serif;
+   justify-content: flex-start;
+   align-items: flex-start;
+}
+.signup-form :nth-child(4){
+width: 100%;
+height: 50px;
+}
+.signup-form :nth-child(5){
+    font-size: 15px;
+   font-family: sans-serif;
+   justify-content: flex-start;
+   align-items: flex-start;
+}
+.signup-form :nth-child(6){
+    font-size: 15px;
+   font-family: sans-serif;
+   height: 50px;
+   background-color: black;
+ 
+}
+.signup-form :nth-child(6) >a{
+    font-size: 20px;
+   font-family: sans-serif;
+   text-decoration: none;
+   color: white;
+  
+}
+
+
+
+
+
+
+
+
+
+
+
+/* signup2 css start */
+
+.signup-form2{
+    display:flex;
+    flex-direction: column;
+   margin-top: 50px;
+     gap: 12px;
+     /* border: 1px solid black; */
+ }
+ .signup-form2 :nth-child(1){
+    font-size: 30px;
+   font-family: sans-serif;
+}
+.signup-form2 :nth-child(2),:nth-child(3),:nth-child(4),:nth-child(5){
+    font-size: 13px;
+   font-family: sans-serif;
+   justify-content: flex-start;
+   align-items: flex-start;
+}
+.signup-form2 :nth-child(9),:nth-child(11),:nth-child(13){
+    width: 100%;
+    height: 50px;
+}
+.signup-form2 :nth-child(15){
+    background:black;
+    font-size: 20px;
+    height: 50px;
+  
+}
+.signup-form2> button>a{
+
+    color:white;
+    text-decoration: none;
+
+}
+
+
+/* singn up 3 page  */
+.signup-form-mobile{
+    display:flex;
+    flex-direction: column;
+   margin-top: 50px;
+     gap: 12px;
+}
+.signup-form-mobile :nth-child(4), :nth-child(10),:nth-child(13){
+    font-size: 20px;
+    height: 50px;
+    /* border:1px solid black; */
+}
+.signup-form-mobile :nth-child(4) >a{
+   text-decoration: none;
+   font-size: 20px;
+}
+.signup-form-mobile :nth-child(13)>a{
+    text-decoration: none;
+    font-size: 20px;
+ }
+.signup-form-mobile :nth-child(1){
+    font-size: 30px;
+   font-family: sans-serif;
+}
+.signup-form-mobile :nth-child(2),:nth-child(7){
+    font-size: 13px;
+   font-family: sans-serif;
+   justify-content: flex-start;
+   align-items: flex-start;
+}
+
+/* singn up  page 4  */
+
+.signup-form-mobile-1{
+    display:flex;
+    flex-direction: column;
+   margin-top: 50px;
+     gap: 12px;
+}
+
+.signup-form-mobile-1 :nth-child(7), :nth-child(10){
+    font-size: 20px;
+    height: 50px;
+    /* border:1px solid black; */
+}
+
+/* ckeckout   page   */
+
+.checkout-layout{
+    display: grid;
+    grid-template-columns: 50% 50%;
+}
