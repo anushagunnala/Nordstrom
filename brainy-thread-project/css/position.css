@@ -1,0 +1,159 @@
+.psn-relative{
+    position: relative;
+}
+
+/* position absolute for text going over previous image */
+.psn-absolute{
+    position: absolute;
+}
+.psn-sticky{
+    position: sticky;
+    top: 0;
+    
+}
+
+
+/* index page */
+
+/* box id 1 noordClub */
+#noord-club-text-div{
+    top: 10%;
+    left: 40%;
+    transform: translateX(-40%);
+    
+}
+
+
+/* box 3 double duty summer */
+#double-duty-summer-txt-div{
+    top:25%;
+    left: 7%;
+}
+
+/* box 8 give a little small */
+#give-little-small-txt-div{
+    top:25%;
+    left: 22%;    
+}
+
+
+/* box 10 give a little big */
+#give-little-big-txt1-div{
+    top:45%;
+    left: 32%;    
+    
+    
+}
+#give-little-big-txt2-div{
+    bottom: 6%;
+    left: 22%;    
+
+}
+
+/* box 13 pride 21 */
+#pride21-txt-div{
+    top: 58%;
+    left: 45%;
+}
+
+/* box 17 design clearance */
+#design-clearance-txt-div{
+    top: 62%;
+    left: 38%;
+}
+
+/* box 19 anniversary sale */
+
+
+/* box 21 see what new */
+#what-new-txt-div{
+    top:30%;
+    left: 25%;
+}
+
+/* box 23 hiring */
+#hiring-txt-div{
+    top: 35%;
+    left: 65%;
+}
+/* box 27 shop by category */
+#index-category-name{
+    left: 0;
+    top: 80%;
+}
+
+/* box 29  nordstrom trunk club*/
+
+
+#trunk-club-txt1-div{
+    top:42%;
+    left:7% ;
+    width: 28%;
+}
+#trunk-club-txt2-div{
+    top:30%;
+    right: 3%;
+    width: 35%;
+}
+
+/* box-33 need help */
+#need-help-txt-div{
+    top: 30%;
+}
+
+#need-help-txt1-div{
+    
+    margin-left: 20%;
+    
+}
+#need-help-txt2-div{
+    
+    margin-left: 50%;
+}
+#need-help-txt3-div{
+   
+    margin-left: 50%;
+}
+
+/* box-35 stay in  touch */
+#stay-in-touch-txt-div{
+    top: 10%;
+    left: 10%;
+}
+
+
+/* ---men.html-- */
+#surfing-summer-txt-div{
+    width: 30%;
+    top: 10%;
+    left: 5%;
+}
+#surfing-summer-txt-div a{
+    display: block;
+   
+}
+#fearofgod-txt-div{
+    top: 35%;
+    width: 30%;
+    left: 10%;
+}
+#fearofgod-txt-div a{
+    display: block;
+}
+
+
+
+
+/* ---sidebar---- */
+.side-nav{
+    
+    height: 90vh;
+    position: sticky;
+    top: 0;
+    
+    /* width: 14%; */
+    left: 1%;
+    bottom: 1vw;
+    overflow-y: scroll;
+   
+}
