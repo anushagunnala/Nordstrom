@@ -1,0 +1,71 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500;700;900&display=swap');
+.cntr{
+    text-align: center;
+}
+*{
+    font-family: 'Roboto', sans-serif;
+
+}
+.white{
+    color: white;
+    
+}
+.black{
+    color: black;
+}
+
+
+/* font weight */
+.fwn{
+    font-weight: 900;
+}
+.fws{
+    font-weight: 700;
+}
+.fwf{
+    font-weight: 400;
+}
+.fwtt{
+    font-weight: 300;
+}
+.fwt{
+    font-weight: 200;
+}
+
+
+
+.lho{
+    line-height: 1.5rem;
+}
+.lht{
+    line-height: 2rem;
+}
+
+
+/* anchor desiginings */
+
+.wha{
+    color: white;
+}
+
+/* index page */
+
+#shopping-idea div{
+    text-align: center;
+}
+
+
+/* main logo */
+.main-logo{
+    text-transform: uppercase;
+    font-size: 2rem;
+    padding-left: 1rem;
+    
+    
+}
+.main-logo a{
+    text-decoration: none;
+    
+    color: black;
+    font-weight: 700;
+}
