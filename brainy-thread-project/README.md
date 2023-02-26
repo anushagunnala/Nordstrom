@@ -70,7 +70,7 @@ Nordstrom, Inc. is a leading fashion retailer offering compelling clothing, shoe
      1) Modal on home page as soon a customer visits the home page.
      2) Carousal changing image of some sub-section
      3) Carousal changing text-content of some sub-section
-2) On Category page a user can go to sub-category like clothing from selectin filter from side menu of links on images
+2) On Category page a user can go to sub-category like clothing from selection filter from side menu of links on images
 3) On Clothing page a user can see all clothes available and do these below actions
      1) For each cloth items following details are shown:-
          1) Item image
@@ -80,8 +80,8 @@ Nordstrom, Inc. is a leading fashion retailer offering compelling clothing, shoe
          5) Color of each button same as product items available colour
          6) With each color button user can see the item's image of that button color
          7) On hovering over item image a quick view of item's second image
-         8) Rating of cloth item
-         9) Total comments on item       
+         8) Rating of cloth item.
+         9) Total comments on item.       
      2) A user can sort on basis of price high to low, price low to high, customer rating high to low, featured items.
      3) Total no of available clothes below heading Men Clothing.
      4) User can filter items by clicking on filter criteria displayed in side-navigation.
@@ -100,7 +100,7 @@ Nordstrom, Inc. is a leading fashion retailer offering compelling clothing, shoe
      8) see the description of brand
      9) on clicking add to bag, customer is redirected to shoping bag page
 5) On shopping bag page a custome can :-
-    1) view all his bag items along with detail like image, description, remove and save later button, price, quant, sub-total, etc.
+    1) view all his/her bag items along with detail like image, description, remove and save later button, price, quant, sub-total, etc.
     2) On increasing-decreasing quantity the item price and sub-total price also change accordingly.
     3) On clicking remove button or save later item is removed from shoping bag display and price changes accordingly.
     4) If the last available item of bag is removed the customer is redirected to shoping page at men's clothing.
